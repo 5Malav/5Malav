@@ -27,12 +27,13 @@ I aim to **automate knowledge extraction** and solve real-world AI problems.
 ---
 
 ## 🚀 Top Projects
-### [Local-RAG]([https://github.com/5Malav/local_rag](https://github.com/5Malav/Local-RAG))
+### [Local-RAG](https://github.com/5Malav/Local-RAG)
 Fully local Retrieval-Augmented Generation system that answers questions from PDFs, DOCX, and TXT documents using embeddings + Mistral LLM.  
-![Local-RAG Demo](https://media.giphy.com/media/your-demo-link.gif)
+![Local-RAG Demo](https://media.giphy.com/media/your-demo-link.gif) <!-- Replace with your actual demo GIF -->
 
-### [Enterprise SQL Analytics]([https://github.com/5Malav/Enterprise-SQL-Analytics-Project](https://github.com/5Malav/Enterprise-SQL-Analytics-Project))
+### [Enterprise SQL Analytics](https://github.com/5Malav/Enterprise-SQL-Analytics-Project)
 End-to-end data analytics project demonstrating SQL skills, data pipelines, and reporting dashboards.
+
 
 ---
 
