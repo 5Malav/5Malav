@@ -56,4 +56,5 @@ End-to-end data analytics project demonstrating SQL skills, data pipelines, and 
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/malavjoshi5) 
+[LinkedIn](https://www.linkedin.com/in/malavjoshi5)
+[GitHub](https://github.com/5Malav)
