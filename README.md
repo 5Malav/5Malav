@@ -1,60 +1,126 @@
-# 👋 Hi, I’m Malav
-**Gen AI Full-Stack Developer | Building end-to-end AI systems with PyTorch, RAG, and vector search**  
-Turning unstructured documents into actionable insights 🚀
+<div align="center">
+
+# 👋 Hey, I'm Malav Joshi
+
+### AI Engineer · GenAI Full-Stack Developer · RAG Systems Builder
+
+*Turning unstructured documents into actionable intelligence — locally, privately, at scale.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-malavjoshi5-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavjoshi5)
+[![GitHub](https://img.shields.io/badge/GitHub-5Malav-181717?style=flat&logo=github&logoColor=white)](https://github.com/5Malav)
+[![Profile Views](https://komarev.com/ghpvc/?username=5Malav&color=blueviolet&style=flat)](https://github.com/5Malav)
+
+</div>
 
 ---
 
-## 🌱 About Me
-I’m passionate about building **production-ready AI tools** and full-stack ML systems.  
-I specialize in:
-- Retrieval-Augmented Generation (Local-RAG)
-- LLM integrations (Mistral 7B, Ollama)
-- Data pipelines & vector search (FAISS/Chroma)
-- SQL & Enterprise data analytics
-I aim to **automate knowledge extraction** and solve real-world AI problems.  
+## 🧠 About Me
+
+I'm an **AI Engineer** specializing in building **end-to-end, production-ready AI systems** — from raw documents to intelligent, queryable knowledge bases.
+
+- 🔭 **Currently building:** Agentic RAG pipelines with multi-modal document support
+- 🌱 **Currently exploring:** LLM fine-tuning, LangGraph, and multimodal AI
+- 💼 **Experience at:** TD Insurance — enterprise data analytics & AI tooling
+- 🎯 **Goal:** Automate knowledge extraction and make AI tools that actually work in the real world
+- 📍 **Based in:** India
 
 ---
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
-### Programming & ML
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F61?style=flat&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### 🤖 AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Mistral](https://img.shields.io/badge/Mistral_7B-4A90E2?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 
-### AI & LLM Tools
-![Mistral LLM](https://img.shields.io/badge/-Mistral7B-4A90E2?style=flat)
-![FAISS](https://img.shields.io/badge/-FAISS-2D8CFF?style=flat)
-![Gradio](https://img.shields.io/badge/-Gradio-0ACF83?style=flat)
+### 🔍 RAG & Vector Search
+![FAISS](https://img.shields.io/badge/FAISS-2D8CFF?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A5E?style=flat)
 
-### MLOps & Deployment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-00BFA5?style=flat)
-![DVC](https://img.shields.io/badge/-DVC-000000?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-F05032?style=flat)
+### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+### ⚙️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F05032?style=flat)
+
+### 🖥️ Frontend & UI
+![Gradio](https://img.shields.io/badge/Gradio-0ACF83?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-## 🚀 Top Projects
-### [Local-RAG](https://github.com/5Malav/Local-RAG)
-Fully local Retrieval-Augmented Generation system that answers questions from PDFs, DOCX, and TXT documents using embeddings + Mistral LLM.  
-![Local-RAG Demo](https://media.giphy.com/media/your-demo-link.gif) <!-- Replace with your actual demo GIF -->
+## 🚀 Featured Projects
 
-### [Enterprise SQL Analytics](https://github.com/5Malav/Enterprise-SQL-Analytics-Project)
-End-to-end data analytics project demonstrating SQL skills, data pipelines, and reporting dashboards.
+### 🗂️ [Local-RAG](https://github.com/5Malav/Local-RAG)
+> **Fully local Retrieval-Augmented Generation system — no cloud, no API keys, total privacy.**
 
+Built a complete RAG pipeline that ingests PDF, DOCX, and TXT documents, chunks and embeds them with sentence-transformers, stores vectors in FAISS, and answers questions using **Mistral 7B via Ollama** — all running locally on your machine.
+
+**Stack:** Python · FAISS · Mistral 7B · Ollama · Gradio · Sentence Transformers  
+`RAG` `LLM` `Local AI` `FAISS` `Mistral` `Privacy-First`
+
+---
+
+### 📈 [Enterprise SQL Analytics](https://github.com/5Malav/Enterprise-SQL-Analytics-Project)
+> **End-to-end enterprise data analytics pipeline with SQL, reporting, and dashboards.**
+
+Designed and implemented a full analytics solution simulating real enterprise data workflows — schema design, data pipelines, complex SQL queries, and business reporting dashboards.
+
+**Stack:** SQL · Python · Pandas · Data Visualization  
+`SQL` `Analytics` `Data Engineering` `Business Intelligence`
+
+---
+
+### 🏗️ [Relational Business Reporting System](https://github.com/5Malav/Relational-Business-Reporting-System)
+> **Relational database-backed reporting system for business intelligence use cases.**
+
+`SQL` `Relational DB` `Reporting`
+
+---
+
+### 📉 [Customer Churn Prediction](https://github.com/5Malav/Predict-Customer-Churn---Kaggle-Competition)
+> **Binary classification model for predicting customer churn — Kaggle Playground Series S6E3.**
+
+Built a full ML pipeline: EDA → feature engineering → model selection → hyperparameter tuning → submission.
+
+**Stack:** Python · Scikit-Learn · PyTorch · Jupyter  
+`Machine Learning` `Classification` `Kaggle` `Feature Engineering`
 
 ---
 
 ## 📊 GitHub Stats
-![5Malav's GitHub stats](https://github-readme-stats.vercel.app/api?username=5Malav&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5Malav&layout=compact&theme=radical)
+
+<div align="center">
+
+![Malav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5Malav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5Malav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=5Malav&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/malavjoshi5)
-[GitHub](https://github.com/5Malav)
+## 🤝 Let's Connect
+
+I'm always open to collaborating on AI projects, discussing RAG architectures, or just talking about the latest in LLMs.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malavjoshi5)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/5Malav)
+
+---
+
+<div align="center">
+<i>"The best AI system is the one that quietly solves real problems."</i>
+</div>
