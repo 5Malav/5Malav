@@ -39,10 +39,6 @@ A fully local RAG system — no cloud, no API keys, total privacy. Ingests PDF, 
 
 Two normalized schemas designed from scratch and 88 production-style queries across them — window functions, recursive CTEs, cohort analysis, revenue trends, query optimization. The boring fundamentals every reliable data system stands on.
 
-### On the bench
-
-- 🟡 **LLM Reliability Platform** — tracing, evals and guarded fine-tunes for RAG in production (Langfuse, RAGAS, QLoRA on Llama 3.2)
-- ⚪ **SafeRoll** — planned open-source tool for atomic, one-command model rollbacks. Every deploy needs an undo.
 
 ---
 
