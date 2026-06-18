@@ -1,15 +1,9 @@
 # Malav Joshi
 
-**I build ML systems that don't die at 3 a.m.**
+**I build ML systems that don't die.**
 
 ML Infrastructure & Reliability — statistician by training (B.Sc. + two data Master's), operations engineer by experience (3 years at TD Insurance: 45→90% automation completion, $60K saved annually), ML infrastructure builder by choice. Now shipping production-grade ML pipelines in public.
 
-```text
-$ git tag --sort=v:refname                    # churn-mlops
-v1.0  v1.1  v1.2  v1.3  v1.4  v1.5
-$ ruff check . && black --check . && pytest
-all checks passed — runs on every push (GitHub Actions)
-```
 
 > **How I work:** ship small · tag everything · automate the boring checks · write the runbook before the incident.
 
